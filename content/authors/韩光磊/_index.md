@@ -5,5 +5,5 @@ avatar_filename: 韩光磊2.jpg
 social: []
 superuser: false
 user_groups:
-  - Researcher
+  - Researchers
 ---
