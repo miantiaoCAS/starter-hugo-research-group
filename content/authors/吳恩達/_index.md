@@ -13,7 +13,7 @@ education:
   courses: []
 email: ""
 user_groups:
-  - Group Member
+  - Researcher
 ---
 自旋电子学
 
