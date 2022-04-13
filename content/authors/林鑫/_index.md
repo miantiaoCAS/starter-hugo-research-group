@@ -5,5 +5,5 @@ avatar_filename: 林鑫2.jpg
 social: []
 superuser: false
 user_groups:
-  - 研究生
+  - Researcher
 ---
