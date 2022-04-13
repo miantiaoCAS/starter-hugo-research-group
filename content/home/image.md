@@ -1,7 +1,7 @@
 ---
 advanced:
   css_class: fullscreen
-widget: blank
+widget: SOT-MRAM
 widget_id: SOT-MRAM
 headless: true
 weight: 30
