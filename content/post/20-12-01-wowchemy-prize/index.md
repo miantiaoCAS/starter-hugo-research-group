@@ -3,7 +3,7 @@ title: 半导体所朱礼军课题组在垂直亚铁磁单层膜中发现新型�
 subtitle: "Applied Physics Reviews 2022: 9, 021402"
 date: 2022-04-12T16:00:00.000Z
 image:
-  filename: 1.tif
+  filename: 1.png
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
