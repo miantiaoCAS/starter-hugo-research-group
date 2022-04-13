@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: 朱礼军_社保2.jpg
+    image: ""
 ---
 <br>
 
